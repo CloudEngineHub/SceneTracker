@@ -201,10 +201,11 @@ We would like to thank [CoTracker](https://github.com/facebookresearch/co-tracke
 If you find our repository useful, please consider giving it a star ⭐ and citing our paper in your work:
 
 ```bibtex
-@article{wang2024scenetracker,
-  title={SceneTracker: Long-term Scene Flow Estimation Network},
+@article{wang2025scenetracker,
+  title={Scenetracker: Long-term scene flow estimation network},
   author={Wang, Bo and Li, Jian and Yu, Yang and Liu, Li and Sun, Zhenping and Hu, Dewen},
-  journal={arXiv preprint arXiv:2403.19924},
-  year={2024}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
 }
 ```
